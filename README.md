@@ -2,7 +2,7 @@
 ## Project Overview
 This project focuses on the analysis of Amazon sales data to uncover insights that can help optimize business strategies, improve decision-making, and enhance customer satisfaction.
 
-### Data Sources
+## Data Sources
 ###
 Amazon Sales Data: The primary dataset used for this analysis is the "Amazon Sales data.csv" file, containing detailed information about different regionwise online and offline sales by Amazon.
 
@@ -22,8 +22,7 @@ Following are the Primery Objectives associated for this project as mentioned be
 4. Profitability Analysis
 5. Predictive Insights
 
-### 
-Key Performance Indicators:
+## Key Performance Indicators:
 ###
 1. Total Sales
 2. Total Profit
